@@ -1,8 +1,8 @@
 {
-  "version_name": "1.0.8",
-  "version_code": 8,
-  "release_notes": "✨ Major UI Experience Upgrade! We've added a stunning 3D parallax effect to the Trending movies carousel, new Quick Action buttons on the Home screen, and smart Trending Searches to help you discover content effortlessly.",
-  "apk_url": "https://github.com/jogiyabhautik-work/TrackTube-Releases/releases/download/app-released1.0.8/app-release.apk",
-  "force_update": false,
+  "version_name": "1.0.9",
+  "version_code": 9,
+  "release_notes": "🛠 Critical Crash Fixes! This update resolves an immediate crash when launching the app and a crash when searching for specific titles. Enjoy a much more stable experience!",
+  "apk_url": "https://github.com/jogiyabhautik-work/TrackTube-Releases/releases/download/app-release1.0.9/app-release.apk",
+  "force_update": true,
   "is_active": true
 }
